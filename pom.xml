@@ -121,7 +121,7 @@
     <thymeleaf.version>3.0.12.RELEASE</thymeleaf.version>
     <thymeleafspringsecurity5.version>3.0.3.RELEASE</thymeleafspringsecurity5.version>
     <springframework.version>5.1.0.RELEASE</springframework.version>
-    <springsecurity.version>5.1.0.RELEASE</springsecurity.version>
+    <springsecurity.version>5.2.10.RELEASE</springsecurity.version>
   </properties>
 
   <build>
